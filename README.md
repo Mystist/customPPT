@@ -2,7 +2,7 @@
 
 `customPPT` can change your static PPT pics into dynamic.
 
-See it in the demo.
+See it in the demo.(Design by mtime.com)
 
 Contact me for more information:  
 
